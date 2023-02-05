@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4UYsHSv7ENcIsGWUN1l6DUyV4ymlNc+/r338wn0m/VPhX0tv+W9pJ1BiJkC15uFZ2+c3MulFtMWBHVUgimWOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leool\\OneDrive\\Área de Trabalho\\Microservices\\less1\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leool\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\mongodb.driver\\2.16.1\\mongodb.driver.2.16.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\mongodb.driver.core\\2.16.1\\mongodb.driver.core.2.16.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\mongodb.libmongocrypt\\1.5.3\\mongodb.libmongocrypt.1.5.3.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\leool\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

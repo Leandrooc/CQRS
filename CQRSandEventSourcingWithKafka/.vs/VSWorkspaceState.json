@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CQRS-ES",
+    "\\CQRS-ES\\CQRS.Core\\obj",
+    "\\SM-Post",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure",
+    "\\SM-Post\\Post.Query",
+    "\\SM-Post\\Post.Query\\Post.Query.Infrastructure"
+  ],
+  "SelectedNode": "\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "PreviewInSolutionExplorer": false
+}
